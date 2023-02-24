@@ -1,6 +1,11 @@
 # DS-Gleam - Social Media App
 
 DS-Gleam is a social media application built with MERN stack. It includes features such as CRUD posts, adding friends, dark mode, and messaging. The UI is designed to be modern and intuitive, with advanced features such as real-time updates and notifications.
+![gleam5](https://user-images.githubusercontent.com/114764373/221071571-632557c8-2e85-4a2d-878e-bb244782a489.png)
+![gleam3](https://user-images.githubusercontent.com/114764373/221071587-2ce3e282-b61d-4af9-8844-74229a306d24.png)
+![gleam2](https://user-images.githubusercontent.com/114764373/221071595-f351a316-31a5-464d-8a42-27cb5fc3d1d8.png)
+![gleam4](https://user-images.githubusercontent.com/114764373/221071615-ffc29350-c540-41cf-a1c3-e822361c34a8.png)
+
 
 ## Technologies
 
